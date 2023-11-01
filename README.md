@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @butoCakil
-- 👀 I’m interested in misic and coding
-- 🌱 I’m currently learning IoT
+- 👀 I’m interested in music, electronica and coding
+- 🌱 I’m currently learning IoT and Web Apps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me learn and practice
 
